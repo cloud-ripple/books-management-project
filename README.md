@@ -27,7 +27,15 @@
 ![image](https://github.com/Tianbobo520/books-management-project/blob/master/iamges/3.png)
 
 4. 注册、登录
-进入页面
+
+进入普通用户页面，点击--->关于--->管理员密钥，输入 twb 点击确定即可进入管理员界面，进行图书信息的添加，修改
+
+![image](https://github.com/Tianbobo520/books-management-project/blob/master/iamges/5.png)
+
+管理界面如下
+
+![image](https://github.com/Tianbobo520/books-management-project/blob/master/iamges/6.png)
+
 
 5. 想要对该项目有更多了解，请阅读 “图书管理系统实验报告.doc”文件，更多功能和需求尚未完善，敬请期待....
 
